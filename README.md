@@ -19,6 +19,3 @@ The output for this case is as given below:
       ██  █   █      
      ██ ████ ███     
     ██  █    █  █    
-   ██ ████  ██████   
-  ██  █   ███     █  
- ██ ████ ██  █   ███ 
